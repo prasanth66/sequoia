@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "510000010878",
+    "project_id": "sequoia-3c53f",
+    "storage_bucket": "sequoia-3c53f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510000010878:android:2ca3814e6f10edcf116a2f",
+        "android_client_info": {
+          "package_name": "com.prasanth.sequoia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510000010878-n6l0v4fdsknmbsd8a4lba9t9r2g8q25m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe_sbaYN3GuI5DKnLla2tJJomF3fRkkLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510000010878-n6l0v4fdsknmbsd8a4lba9t9r2g8q25m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
